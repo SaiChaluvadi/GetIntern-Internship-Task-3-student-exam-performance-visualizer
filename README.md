@@ -1,6 +1,6 @@
 # Student Exam Performance Data Visualizer
 
-- **Author:** Teki Mohit Sai Tulasi
+- **Author:** Sai Chaluvadi
 - **Program:** GetIntern.in 8-Week Practical Data Science & ML Internship
 - **Phase 1 / Week 3 Milestone Project:** Visual Outlier Detection & Correlation Heatmaps
 
